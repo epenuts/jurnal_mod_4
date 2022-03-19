@@ -1,0 +1,15 @@
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\bin\Debug\net6.0\modul4_1302204060.exe
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\bin\Debug\net6.0\modul4_1302204060.deps.json
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\bin\Debug\net6.0\modul4_1302204060.runtimeconfig.json
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\bin\Debug\net6.0\modul4_1302204060.dll
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\bin\Debug\net6.0\modul4_1302204060.pdb
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\obj\Debug\net6.0\modul4_1302204060.csproj.AssemblyReference.cache
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\obj\Debug\net6.0\modul4_1302204060.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\obj\Debug\net6.0\modul4_1302204060.AssemblyInfoInputs.cache
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\obj\Debug\net6.0\modul4_1302204060.AssemblyInfo.cs
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\obj\Debug\net6.0\modul4_1302204060.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\obj\Debug\net6.0\modul4_1302204060.dll
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\obj\Debug\net6.0\refint\modul4_1302204060.dll
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\obj\Debug\net6.0\modul4_1302204060.pdb
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\obj\Debug\net6.0\modul4_1302204060.genruntimeconfig.cache
+D:\KULIAH\Semester_4\Mata_Kuliah\KONSTRUKSI_PERANGKAT_LUNAK\Praktikum\Modul_4\modul4_1302204060\modul4_1302204060\obj\Debug\net6.0\ref\modul4_1302204060.dll
